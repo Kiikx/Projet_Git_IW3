@@ -43,7 +43,7 @@ Le projet Projet_Git_IW3 est développé en utilisant [Langage de programmation]
 
 ## Contribuer au projet
 
-- Consultez le fichier CONTRIBUTING.md pour obtenir des directives sur la façon de contribuer au projet.
+- Consultez le [code de contribution](CONTRIBUTING.md) pour obtenir des directives sur la façon de contribuer au projet.
 
 ---
 

@@ -1,8 +1,6 @@
-## Describe your changes
+## Décrivez les changements
 
-## Issue ticket number and link
-
-## Checklist before requesting a review
+## Quelques précisions :
 - [ ] J'ai effectué une auto-révision de mon code
 - [ ] S'il s'agit d'une fonctionnalité essentielle, j'ai ajouté des tests approfondis.
 - [ ] Devons-nous mettre en œuvre des analyses ?

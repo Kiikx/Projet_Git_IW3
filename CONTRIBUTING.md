@@ -40,7 +40,7 @@ Veuillez suivre notre guide de style du code disponible dans le fichier `STYLE_G
 
 ## Signalement des Problèmes
 
-Si vous rencontrez des problèmes ou avez des suggestions, veuillez les signaler dans la section des [problèmes (Issues)](https://github.com/nom-utilisateur/Projet_Git_IW3/issues).
+Si vous rencontrez des problèmes ou avez des suggestions, veuillez les signaler dans la section des [problèmes (Issues)](https://github.com/Kiikx/Projet_Git_IW3/issues).
 
 ## Règles de la Communauté
 

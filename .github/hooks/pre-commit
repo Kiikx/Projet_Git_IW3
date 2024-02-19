@@ -1,0 +1,30 @@
+#!/bin/bash
+
+# Function to perform a calculation
+perform_calculation() {
+  # Your calculation logic here
+  result=$((2 + 2))
+  echo "Résultat du calcul : $result"
+}
+
+# Perform the calculation
+perform_calculation
+
+# Chemin vers ESLint, ajustez-le si nécessaire
+ESLINT="./node_modules/.bin/eslint"
+
+# Exécute ESLint sur les fichiers modifiés dans la zone de transit
+# Utilisez --staged pour les fichiers ajoutés à l'index
+git diff --name-only --cached --diff-filter=ACM | grep '\.js$' | xargs "$ESLINT"
+
+# Récupère le code de sortie d'ESLint
+ESLINT_EXIT_CODE=$?
+
+# Sortie en cas d'erreur d'ESLint
+if [ $ESLINT_EXIT_CODE -ne 0 ]; then
+  echo "ESLint a trouvé des problèmes dans le code. Annulant le commit."
+  exit $ESLINT_EXIT_CODE
+fi
+
+# Tout est bon, autoriser le commit
+exit 0

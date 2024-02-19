@@ -9,13 +9,13 @@ Avant de soumettre des contributions, veuillez lire ce guide pour vous assurer q
 1. Assurez-vous d'avoir une version récente du code en clonant le référentiel :
 
    ```bash
-   git clone https://github.com/nom-utilisateur/nom-projet.git
+   git clone https://github.com/Kiikx/Projet_Git_IW3.git
    ```
 
 2. Créez une branche pour vos modifications :
 
    ```bash
-   git checkout -b ma-branche-de-fonctionnalite
+   git checkout -b feature/ma-fonctionnalite
    ```
 
 3. Faites vos modifications, en suivant les [normes de codage](#normes-de-codage) du projet.

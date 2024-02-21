@@ -31,7 +31,7 @@ Nous accueillons favorablement les contributions à la Taverne des Aventuriers !
    git commit -m "Ajout de la fonctionnalité XYZ"
    ```
 4. Poussez votre branche sur votre dépôt forké :
-   ```bash
+   ```bash 
    git push origin feature/nom-de-la-fonctionnalité
    ```
 5. Ouvrez une pull request sur le dépôt d'origine.

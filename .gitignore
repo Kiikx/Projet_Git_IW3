@@ -1,1 +1,5 @@
 /Coffre_Fort
+/node_modules
+/.eslintrc.js
+/package-lock.json
+/package.json

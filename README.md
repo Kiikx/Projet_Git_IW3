@@ -1,6 +1,6 @@
 # Taverne des Aventuriers
 
-La Taverne des Aventuriers est un projet Git destiné à offrir une plateforme où les aventuriers peuvent trouver et entreprendre des quêtes passionnantes. Que vous soyez un guerrier courageux, un mage habile ou un voleur furtif, vous trouverez sûrement des quêtes qui vous conviennent dans notre taverne.
+La Taverne des Aventuriers est un projet Git destiné à offrir une plateforme où les aventuriers peuvent trouver et entreprendre des quêtes passionnantes! . Que vous soyez un guerrier courageux, un mage habile ou un voleur furtif, vous trouverez sûrement des quêtes qui vous conviennent dans notre taverne.
 
 ## Fonctionnalités
 
